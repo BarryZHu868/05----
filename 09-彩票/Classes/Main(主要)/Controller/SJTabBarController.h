@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SJTabBarController.h
 //  09-彩票
 //
 //  Created by 朱仕俊 on 15/9/19.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SJTabBarController : UITabBarController
 
 @end
-
